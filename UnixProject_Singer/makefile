@@ -3,7 +3,7 @@ README.md: guessinggame.sh
 	echo "# The Unix Workbench: Peer Reviewed Project" >README.md
 	echo "## By Jessica Singer, June 2019" >>README.md
 	echo "" >>README.md
-	echo "The shell guessinggame.sh contains the following number of lines of code:" >>README.md
+	echo "The shell **guessinggame.sh** contains the following number of lines of code:" >>README.md
 	wc -l guessinggame.sh | egrep -o "[0-9]+" >>README.md
 	echo "" >>README.md
 	echo "'Lines of code', in this case, also includes non-commentary lines." >>README.md
@@ -11,7 +11,7 @@ README.md: guessinggame.sh
 	echo "Make log: " >>README.md
 	date >>README.md
 	echo "" >>README.md
-	echo "My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)" >>README.md
+	echo echo "My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)" >>README.md
 	echo "" >>README.md
 	echo "### Project Instructions" >>README.md
 	echo "" >>README.md

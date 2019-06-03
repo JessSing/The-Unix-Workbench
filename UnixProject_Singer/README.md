@@ -1,15 +1,15 @@
 # The Unix Workbench: Peer Reviewed Project
 ## By Jessica Singer, June 2019
 
-The shell guessinggame.sh contains the following number of lines of code:
+The shell **guessinggame.sh** contains the following number of lines of code:
 30
 
 'Lines of code', in this case, also includes non-commentary lines.
 
 Make log: 
-Sun  2 Jun 2019 22:50:32 EDT
+Sun  2 Jun 2019 23:26:58 EDT
 
-My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)
+echo My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)
 
 ### Project Instructions
 
