@@ -1,0 +1,6 @@
+maketime=$(LOGPATH) `date +'%y.%m.%d %H:%M:%S'`
+	
+	echo $maketime >> README.md
+
+# The Unix Workbench: Peer Graded Assignment > README.md
+## By Jessica Singer >> README.md
