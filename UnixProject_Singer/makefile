@@ -11,6 +11,7 @@ README.md: guessinggame.sh
 	echo "Make log: " >>README.md
 	date >>README.md
 	echo "" >>README.md
+	echo echo "My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)" >>README.md
 	echo "### Project Instructions" >>README.md
 	echo "" >>README.md
 	echo "This assignment is designed to test your facility for using Git and GitHub, creating makefiles, and writing Bash programs." >>README.md
