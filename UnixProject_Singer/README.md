@@ -7,9 +7,9 @@ The shell **guessinggame.sh** contains the following number of lines of code:
 'Lines of code', in this case, also includes non-commentary lines.
 
 Make log: 
-Sun  2 Jun 2019 23:26:58 EDT
+Mon  3 Jun 2019 09:01:09 EDT
 
-echo My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)
+My [GitHub Page](https://jesssing.github.io/The-Unix-Workbench/UnixProject_Singer/)
 
 ### Project Instructions
 
